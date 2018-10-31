@@ -1,0 +1,38 @@
+.masonry-column {
+  padding: 0 5px;
+}
+
+.masonry-grid > div .thumbnail {
+  margin: 5px 1px;
+}
+
+.item1 {
+  min-height: 18rem;
+  background-color: red;
+  border-style: solid !important;
+}
+.item2 {
+  min-height: 12rem;
+  background-color: red;
+  border-style: solid !important;
+}
+.item3 {
+  min-height: 6rem;
+  background-color: red;
+  border-style: solid !important;
+}
+.item4 {
+  min-height: 9rem;
+  background-color: red;
+  border-style: solid !important;
+}
+.item5 {
+  min-height: 6rem;
+  background-color: red;
+  border-style: solid !important;
+}
+.item6 {
+  min-height: 3rem;
+  background-color: red;
+  border-style: solid !important;
+}
